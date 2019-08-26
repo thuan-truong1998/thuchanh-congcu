@@ -1,0 +1,13 @@
+C:\Users\thuan-win10\source\repos\TinhTheTrangNguoi\TinhTheTrangNguoi\bin\Debug\TinhTheTrangNguoi.exe.config
+C:\Users\thuan-win10\source\repos\TinhTheTrangNguoi\TinhTheTrangNguoi\bin\Debug\TinhTheTrangNguoi.exe
+C:\Users\thuan-win10\source\repos\TinhTheTrangNguoi\TinhTheTrangNguoi\bin\Debug\TinhTheTrangNguoi.pdb
+C:\Users\thuan-win10\source\repos\TinhTheTrangNguoi\TinhTheTrangNguoi\obj\Debug\TinhTheTrangNguoi.csprojAssemblyReference.cache
+C:\Users\thuan-win10\source\repos\TinhTheTrangNguoi\TinhTheTrangNguoi\obj\Debug\TinhTheTrangNguoi.Properties.Resources.resources
+C:\Users\thuan-win10\source\repos\TinhTheTrangNguoi\TinhTheTrangNguoi\obj\Debug\TinhTheTrangNguoi.csproj.GenerateResource.cache
+C:\Users\thuan-win10\source\repos\TinhTheTrangNguoi\TinhTheTrangNguoi\obj\Debug\TinhTheTrangNguoi.csproj.CoreCompileInputs.cache
+C:\Users\thuan-win10\source\repos\TinhTheTrangNguoi\TinhTheTrangNguoi\obj\Debug\TinhTheTrangNguoi.exe
+C:\Users\thuan-win10\source\repos\TinhTheTrangNguoi\TinhTheTrangNguoi\obj\Debug\TinhTheTrangNguoi.pdb
+C:\Users\thuan-win10\source\repos\TinhTheTrangNguoi\TinhTheTrangNguoi\obj\Debug\TinhTheTrangNguoi.BMINu.resources
+C:\Users\thuan-win10\source\repos\TinhTheTrangNguoi\TinhTheTrangNguoi\obj\Debug\TinhTheTrangNguoi.BMITreEm.resources
+C:\Users\thuan-win10\source\repos\TinhTheTrangNguoi\TinhTheTrangNguoi\obj\Debug\TinhTheTrangNguoi.BMIChung.resources
+C:\Users\thuan-win10\source\repos\TinhTheTrangNguoi\TinhTheTrangNguoi\obj\Debug\TinhTheTrangNguoi.BMINam.resources
